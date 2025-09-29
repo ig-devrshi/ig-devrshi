@@ -38,7 +38,7 @@
 				  letter-spacing: - 0.5em;
 				  text-transform: uppercase;
 				  text-align: center;
-				  .your-element {background: radial-gradient(100% 100% at var(--12-x-position) var(--12-y-position), #e00000 -12%, transparent),radial-gradient(100% 100% at var(--13-x-position) var(--13-y-position), #fae500 39%, transparent),#1b253b;animation-name: main; animation-iteration-count: infinite; animation-duration: 2s; transition-timing-function: ease-in;}@property --12-x-position {
+				  background: radial-gradient(100% 100% at var(--12-x-position) var(--12-y-position), #e00000 -12%, transparent),radial-gradient(100% 100% at var(--13-x-position) var(--13-y-position), #fae500 39%, transparent),#1b253b;animation-name: main; animation-iteration-count: infinite; animation-duration: 2s; transition-timing-function: ease-in;}@property --12-x-position {
       syntax: '<percentage>';
         inherits: false;
         initial-value: 17.070312499999996%;
@@ -57,7 +57,7 @@
         }:root {--4-x-position: 17.070312499999996%;--4-y-position: 85.2734375%;--5-x-position: 80%;--5-y-position: 20%;--6-x-position: 17.070312499999996%;--6-y-position: 85.2734375%;--7-x-position: 80%;--7-y-position: 20%;--8-x-position: 17.070312499999996%;--8-y-position: 85.2734375%;--9-x-position: 80%;--9-y-position: 20%;--10-x-position: 17.070312499999996%;--10-y-position: 85.2734375%;--11-x-position: 80%;--11-y-position: 20%;--12-x-position: 17.070312499999996%;--12-y-position: 85.2734375%;--13-x-position: 80%;--13-y-position: 20%;}
     @keyframes main {
       25% {--12-x-position: 15%;--12-y-position: 15%;--13-x-position: 85%;--13-y-position: 80%;}50% {--12-x-position: 80%;--12-y-position: 15%;--13-x-position: 15%;--13-y-position: 85%;}
-    }
+    
     
 				  background-size: 200%;
 				  background-clip: text;
