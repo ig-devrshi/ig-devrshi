@@ -20,7 +20,7 @@
           text-shadow: 0 0 1px #000;
         }
 				h1 {
-				  font-family: 'Bebas Neue',
+				  font-family: 'Zumme Rough Bold',
 					-apple-system,
 					BlinkMacSystemFont, 
 					'Segoe UI', 
@@ -35,7 +35,7 @@
 				  margin: 0;
 				  font-size: 5em;
 				  font-weight: 900;
-				  letter-spacing: -0.6em;
+				  letter-spacing: -0.5em;
 				  text-align: center;
 				  background: -webkit-linear-gradient(right,#3828ca,#ff004c);
 				  background: linear-gradient(270deg,#3828ca 0,#ff004c);
