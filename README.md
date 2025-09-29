@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typing&text=Hi%2C+I'm+ig-devrshi+👋;Full+Stack+Developer.;Web+Designer+%26+Freelancer.&font=Fira%20Code&size=30&color=F7DF1E&width=430&lines=Hi%2C+I'm+ig-devrshi+👋;Full+Stack+Developer.;Web+Designer+%26+Freelancer." alt="Typing SVG">
+  <img src="https://svg-banners.vercel.app/api?type=Devrshi&text=Hi%2C+I'm+ig-devrshi+👋;Full+Stack+Developer.;Web+Designer+%26+Freelancer.&font=Fira%20Code&size=30&color=F7DF1E&width=430&lines=Hi%2C+I'm+ig-devrshi+👋;Full+Stack+Developer.;Web+Designer+%26+Freelancer." alt="Typing SVG">
 </p>
 
 I'm a passionate web developer focused on building modern and efficient web applications.
