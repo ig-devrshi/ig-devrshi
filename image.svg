@@ -33,7 +33,7 @@
 					'Helvetica Neue', 
 					sans-serif;
 				  margin: 0;
-				  font-size: 5em;
+				  font-size: 3em;
 				  font-weight: 900;
 				  letter-spacing: - 0.5em;
 				  text-transform: uppercase;
