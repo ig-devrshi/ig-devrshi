@@ -36,9 +36,9 @@
 				  font-size: 5em;
 				  font-weight: 900;
 				  letter-spacing: - 0.5em;
+				  text-transform: uppercase;
 				  text-align: center;
-				  background: -webkit-linear-gradient(right,#3828ca,#ff004c);
-				  background: linear-gradient(270deg,#3828ca 0,#ff004c);
+				  background: radial-gradient(100% 100% at 17% 85%, #e04f00 0%, transparent),radial-gradient(100% 100% at 80% 20%, #fa3e00 0%, transparent),#1b253b;
 				  background-size: 200%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
