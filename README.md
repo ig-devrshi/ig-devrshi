@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&width=430&lines=Hi%2C+I'm+ig-devrshi+👋;Full+Stack+Developer.;Web+Designer+%26+Freelancer." alt="Typing SVG">
 </p>
 
-# Hey there! I'm Devrshi 👋
-
 I'm a passionate web developer focused on building modern and efficient web applications.
 
 - 🔭 I’m currently working on exciting personal projects.
