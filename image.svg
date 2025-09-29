@@ -38,7 +38,7 @@
 				  letter-spacing: - 0.5em;
 				  text-transform: uppercase;
 				  text-align: center;
-				  background: radial-gradient(100% 100% at 17% 85%, #e00000 -12%, transparent),radial-gradient(100% 100% at 80% 20%, #fae500 39%, transparent),#1b253b;
+				  background: radial-gradient(100% 100% at 17% 85%, #e00000 38%, transparent),radial-gradient(100% 100% at 80% 20%, #fae500 1%, transparent),#1b253b;
 			      background-size: 200%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
