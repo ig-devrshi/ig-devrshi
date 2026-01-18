@@ -1,36 +1,41 @@
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/ig-devrshi/ig-devrshi/main/images/name.gif" alt="ig-devrshi Custom Banner" width="600"/>
-</p> -->
-
 <h1 align="center">
-  <img src="image.svg" alt="Devrshi Bhavsar" />
+  <img src="image.svg" alt="Devrshi Bhavsar | Data Engineer" />
 </h1>
 
-I'm a passionate web developer focused on building modern and efficient web applications.
+I'm a **Data Engineer** dedicated to building scalable data pipelines, optimizing big data workflows, and architecting robust solutions within the **Azure ecosystem**.
 
-- 🔭 I’m currently working on exciting personal projects.
-- 🌱 I’m currently learning advanced cloud deployment strategies.
-- 👯 I’m looking to collaborate on open-source projects.
+- 🔭 I’m currently building an **End-to-End Data Engineering Project** using Azure Synapse and Databricks.
+- 🌱 I’m currently mastering **Infrastructure as Code (Terraform)** and **Delta Lake** optimization.
+- 👯 I’m looking to collaborate on open-source **Data Engineering frameworks** and ETL tools.
 
 ## 📞 Contact
 
 | [**LinkedIn**](https://www.linkedin.com/in/devrshi-bhavsar-934242305/) | [**Gmail**](mailto:devrshib@gmail.com) | [**Instagram**](https://www.instagram.com/__ig.devrshi.__?igsh=c3ZvbG4wczd2N3Nv) | [**Telegram**](YOUR_TELEGRAM_URL) |
 |---|---|---|---|
 
+---
 
-## 💻 Tech Stack:
+## 💻 Data Engineering Tech Stack:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+### ☁️ Cloud Services (Azure)
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Synapse-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Data_Lake_Gen2-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A00?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
 
 ## 📊 GitHub Stats:
 
@@ -43,7 +48,6 @@ I'm a passionate web developer focused on building modern and efficient web appl
     </a>
 </p>
 
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -52,13 +56,6 @@ I'm a passionate web developer focused on building modern and efficient web appl
     </a>
 </p>
 
-
-## 👁️ Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/{ig-devrshi}/count.svg)
-
-
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -66,3 +63,6 @@ I'm a passionate web developer focused on building modern and efficient web appl
         <img src="https://github-profile-trophy.vercel.app/?username=ig-devrshi&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
     </a>
 </p>
+
+## 👁️ Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{ig-devrshi}/count.svg)
