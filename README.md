@@ -53,14 +53,14 @@ I am a **Data Engineer** with 3+ years of experience building batch and incremen
 
 | Role | Company | Duration |
 |---|---|---|
-| Data Engineer | Intellicus Technologies | [Month Year] – Present |
-| Data Engineer (promoted from Data Engineer Intern, April 2024) | Madul Tech Software Pvt. Ltd., Hyderabad | April 2023 – [Month Year] |
+| Data Engineer | Intellicus Technologies | [June-2026] – Present |
+| Data Engineer (promoted from Data Engineer Intern, April 2024) | Madul Tech Software Pvt. Ltd., Hyderabad | April 2023 – [June-2026] |
 
 ---
 
 ## 🚀 Key Projects
 
-### Enterprise Reporting and Analytics (Gold Layer Data Mart) | Intellicus Technologies
+### Bank and Financials Reporting and Analytics (Gold Layer Data Mart) | Intellicus Technologies
 * **Domain:** Banking and Financial Services (BFSI)
 * **Tools:** SQL, PySpark, Medallion Architecture, Git
 * **Work:** Built Gold-layer views, data marts and report-layer data models (fact and dimension structures) and created dashboards for business reporting.
