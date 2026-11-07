@@ -53,8 +53,8 @@ I am a **Data Engineer** with 3+ years of experience building batch and incremen
 
 | Role | Company | Duration |
 |---|---|---|
-| Data Engineer | Intellicus Technologies | [June-2026] – Present |
-| Data Engineer (promoted from Data Engineer Intern, April 2024) | Madul Tech Software Pvt. Ltd., Hyderabad | April 2023 – [June-2026] |
+| Data Engineer | Intellicus Technologies | June 2026 – Present |
+| Data Engineer (promoted from Data Engineer Intern, April 2024) | Madul Tech Software Pvt. Ltd., Hyderabad | April 2023 – June 2026 |
 
 ---
 
